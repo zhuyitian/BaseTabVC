@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BaseTabVC'
-  s.version          = '0.0.2'
+  s.version          = '0.0.3'
   s.summary          = 'businessPage.'
 
 # This description is used to generate tags and improve search results.
@@ -40,20 +40,20 @@ This is my company business page view.
   s.swift_version = '4.2'
 #  s.dependency 'Alamofire'
 #  s.dependency 'Moya/RxSwift'
-  s.dependency 'Kingfisher'
-  s.dependency 'SnapKit'
-  s.dependency 'GoogleSignIn'
-  s.dependency 'FBSDKCoreKit'
-  s.dependency 'FBSDKLoginKit'
-  s.dependency 'FBSDKShareKit'
-  s.dependency 'FBSDKPlacesKit'
-  s.dependency 'Adjust'
-  s.dependency 'Branch'
-  s.dependency 'RxSwift'
-  s.dependency 'SwifterSwift'
-  s.dependency 'SwiftyJSON'
-  s.dependency 'Firebase/Analytics'
-  s.dependency 'WKSimpleBridge'
+#  s.dependency 'Kingfisher'
+#  s.dependency 'SnapKit'
+#  s.dependency 'GoogleSignIn'
+#  s.dependency 'FBSDKCoreKit'
+#  s.dependency 'FBSDKLoginKit'
+#  s.dependency 'FBSDKShareKit'
+#  s.dependency 'FBSDKPlacesKit'
+#  s.dependency 'Adjust'
+#  s.dependency 'Branch'
+#  s.dependency 'RxSwift'
+#  s.dependency 'SwifterSwift'
+#  s.dependency 'SwiftyJSON'
+#  s.dependency 'Firebase/Analytics'
+#  s.dependency 'WKSimpleBridge'
   s.static_framework = true
   
   # s.resource_bundles = {
