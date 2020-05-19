@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BaseTabVC_Example' do
+  pod 'BaseTabVC', :path => '../'
+
+  target 'BaseTabVC_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

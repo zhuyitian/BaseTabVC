@@ -1,0 +1,16 @@
+PODS:
+  - BaseTabVC (0.1.0)
+
+DEPENDENCIES:
+  - BaseTabVC (from `../`)
+
+EXTERNAL SOURCES:
+  BaseTabVC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BaseTabVC: 1ec822be4b282df41c68720dc7dcd41380771dab
+
+PODFILE CHECKSUM: 5069feb0687e6966c35379eeabf7ff27c4b85f1f
+
+COCOAPODS: 1.9.1

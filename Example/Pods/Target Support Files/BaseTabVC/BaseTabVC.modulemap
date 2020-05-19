@@ -1,0 +1,6 @@
+framework module BaseTabVC {
+  umbrella header "BaseTabVC-umbrella.h"
+
+  export *
+  module * { export * }
+}
